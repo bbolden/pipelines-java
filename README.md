@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/KHNAnalyticsDevelopment/TEST_PipeLine_Project/_apis/build/status/bbolden.pipelines-java?branchName=master)](https://dev.azure.com/KHNAnalyticsDevelopment/TEST_PipeLine_Project/_build/latest?definitionId=3&branchName=master)
+
 
 # Contributing
 
